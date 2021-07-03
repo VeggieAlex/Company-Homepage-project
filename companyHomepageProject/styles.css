@@ -1,0 +1,51 @@
+.title {
+    font-size: 6rem;
+    font-family: 'Abel', sans-serif;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    background-color: azure;
+}
+.title-p {
+    font-size: 2rem;
+    text-shadow: 1;
+    color: darkolivegreen;
+    font-family: 'Akaya Kanadaka', cursive;
+    text-align: center;
+}
+.description {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-size: 2rem;
+    border: 2px solid black;
+    background-color: darkkhaki;
+}
+.container {
+    display: inline-flex;
+    border: 2px soild black;
+    background-color: azure;
+}
+img {
+    height: 25rem;
+    width: 22rem;
+    align-items: center;
+    float: right;
+    padding: 2%;
+    margin: auto;
+}
+figcaption {
+    float: right;
+    margin: auto;
+}
+.employees {
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-size: 2rem;
+    border: 2px solid black;
+    background-color: darkkhaki;
+}
+footer {
+    text-align: center;
+    font-family: 'Abel', sans-serif; 
+    font-size: 1rem;
+}
